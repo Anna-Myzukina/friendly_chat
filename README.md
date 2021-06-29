@@ -1,6 +1,7 @@
 # friendly_chat
 
 A new Flutter project.
+![img](https://github.com/Anna-Myzukina/friendly_chat/blob/main/screenschot/screen.PNG)
 
 ## Getting Started
 
