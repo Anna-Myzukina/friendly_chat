@@ -7,7 +7,7 @@ A new Flutter project.
 
 - [ ] The app displays text messages in real time.
 - [ ] Users can enter a text string message, and send it either by pressing the Return key or the Send button.
-- [ ]The UI runs on Android and iOS devices, as well as the web.
+- [ ] The UI runs on Android and iOS devices, as well as the web.
 
 ## Getting Started
 
