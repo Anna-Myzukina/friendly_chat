@@ -176,7 +176,7 @@ A new Flutter project.
 
 ## 📝 License
 
-* [ ] See [LICENSE.md](https://github.com/Anna-Myzukina/startup_namer/blob/main/LICENSE.md) for details.
+* [ ] See [LICENSE.md](https://github.com/Anna-Myzukina/friendly_chat/blob/main/LICENSE.md) for details.
 
 ## Authors
 
