@@ -5,13 +5,13 @@ A new Flutter project.
 
 ## Features:
 
-[ ] The app displays text messages in real time.
-[ ] Users can enter a text string message, and send it either by pressing the Return key or the Send button.
-[ ]The UI runs on Android and iOS devices, as well as the web.
+- [ ] The app displays text messages in real time.
+- [ ] Users can enter a text string message, and send it either by pressing the Return key or the Send button.
+- [ ]The UI runs on Android and iOS devices, as well as the web.
 
 ## Getting Started
 
-[x] Create a Flutter app on the command line:
+- [x] Create a Flutter app on the command line:
 
 
         $ flutter create friendly_chat
@@ -19,7 +19,7 @@ A new Flutter project.
         $ dart migrate --apply-changes
         $ flutter run
         
-[x] Replace all of the code in main.dart with the following:
+- [x] Replace all of the code in main.dart with the following:
 
                 import 'package:flutter/material.dart';
 
